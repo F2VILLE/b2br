@@ -25,7 +25,9 @@ Oracle VirtualBox is cross platform.
 So here the use case depends if you aim to run an ARM or x86-64 system.
 
 ## Instructions
-The `signature.txt` file is the sha1sum of the VDI (Virtual Disk Image) file of the VM.
+The `signature.txt` file is the sha1sum of the VDI (Virtual Disk Image) file of the VM. \
+LVM encryption password : `42belgium` \
+User (fdeville) and root password : `42Belgiums19`
 
 ## Resources
 
@@ -34,13 +36,11 @@ The `signature.txt` file is the sha1sum of the VDI (Virtual Disk Image) file of 
 When searching things on Google the AI summary is pretty helpful to have access to informations quickly, but it can sometimes lack of accuracy, therefore I usually try to check some websites in addition.
 
 ### Links and websites
-Especially for the setup of the system, the Debian wiki was quite useful.
-Plenty on ressources from GeeksForGeeks and other similar websites.
+Especially for the setup of the system, the Debian wiki was quite useful. \
+Plenty of ressources from GeeksForGeeks and other similar websites. \
 Reddit and StackOverflow / StackExchange also are pretty useful to get answers when encountering problems or searching for specific cases.
 
-Some links :
-https://wiki.debian.org
-https://crontab.guru/every-5-minutes
+Some links : \
+https://wiki.debian.org \
+https://crontab.guru/every-5-minutes \
 https://www.geeksforgeeks.org/linux-unix/useful-sudoers-configurations-for-setting-sudo-in-linux/
-
-
